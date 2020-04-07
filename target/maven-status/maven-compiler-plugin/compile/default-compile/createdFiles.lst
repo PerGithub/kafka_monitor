@@ -1,0 +1,5 @@
+pers\xmr\bigdata\basic\EmailSender.class
+pers\xmr\bigdata\basic\Property.class
+pers\xmr\bigdata\basic\EmailAuthenticator.class
+pers\xmr\bigdata\basic\EmailSendInfo.class
+pers\xmr\bigdata\kafka\KafkaOffsetTools.class
